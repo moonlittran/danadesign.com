@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2016-09-24 16:15:27
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.16
+WORDPRESS:	4.6.1
+PHP INFO:	5.6.8 | SAPI: apache2handler
+SERVER:		Apache/2.4.12 (Win32) OpenSSL/1.0.1l PHP/5.6.8 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 14MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20160924_danadesign_57e6a65b086de2516160924161419_database.sql 
+SQL FILE SIZE: 711.87KB (728958) 
+SQL FILE TIME: 2016-09-24 16:15:28 
+SQL RUNTIME: 0.29 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  E:/Incipient/xampp/htdocs/danadesign.com 
+ARCHIVE FILE: 20160924_danadesign_57e6a65b086de2516160924161419_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	70.76MB 
+STATS:	Dirs 2,642 | Files 14,391 
+SQL ADDED: 20160924_danadesign_57e6a65b086de2516160924161419_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 17033
+    [filename] => E:\Incipient\xampp\htdocs\danadesign.com\wp-snapshots\tmp\20160924_danadesign_57e6a65b086de2516160924161419_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 35.28MB 
+ARCHIVE RUNTIME: 89.42 sec. 
+MEMORY STACK: 21.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [E:/Incipient/xampp/htdocs/danadesign.com/wp-snapshots/tmp/20160924_danadesign_57e6a65b086de2516160924161419_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 711.87KB 
+Installer File: 347.64KB 
+Archive File: 35.28MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 90.37 sec.
+PEAK PHP MEMORY USED: 27MB
+DONE PROCESSING => 20160924_danadesign 2016-09-24 16:16:58
+ 
