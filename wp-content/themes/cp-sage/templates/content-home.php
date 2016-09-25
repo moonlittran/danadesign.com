@@ -19,9 +19,9 @@ if ($catalogs->have_posts()) : ?>
                 <div class="catalog-logo">
                     <a href="<?php the_permalink() ?>">
                         <?php if (has_post_thumbnail()):
-                            the_post_thumbnail(320, 320);
+                            the_post_thumbnail([320, 320], ['class' => 'img-responsive']);
                         else: ?>
-                            <img src="http://placehold.it/320x320" alt="" width="320" height="320" />
+                            <img src="http://placehold.it/320x320" alt="" width="320" height="320" class="img-responsive" />
                         <?php endif; ?>
                     </a>
                 </div>

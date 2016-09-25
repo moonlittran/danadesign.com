@@ -1,15 +1,16 @@
 <?php use Roots\Sage\Assets; ?>
+<a href="#mobile-menu" id="hamburger" class="fixed">
+    <span class="hamburger hamburger--collapse">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </span>
+</a>
 
-<div class="header01">
+<div id="header" class="header">
   <nav class="navbar">
     <div class="container">
       <div class="navbar-header">
-        <button type="button" data-toggle="collapse" data-target="#main-menu" aria-expanded="false" class="navbar-toggle collapsed">
-          <span class="sr-only">Menu</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
         <a href="<?php echo site_url() ?>" class="navbar-brand">
           <img src="<?php echo Assets\asset_path('images/logo.png') ?>">
         </a>
